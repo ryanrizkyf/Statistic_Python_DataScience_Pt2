@@ -1,0 +1,32 @@
+Coefficient, Standard Error, t-Statistics & p-Value & Const
+
+Nilai coef pada hasil summary di atas adalah besaran slope dari model, 
+pada model ini slope untuk variabel Pendapatan. 
+Selain itu terdapat beberapa nilai yang menyertainya yaitu std err yang merupakan nilai kesalahan baku 
+(standard error) dari koefisien tersebut, 
+t-statistics yang merupakan nilai yang diperoleh dengan membagi nilai koefisien dengan nilai kesalahan baku. 
+
+Secara matematis t-statistics dapat dirumuskan sebagai berikut :
+Lihat gambar pada file t-statistics-1.png
+Lihat gambar pada file t-statistics-2.png
+
+Terakhir adalah p-value yang dapat digunakan untuk memastikan bahwa koefisien signifikan 
+atau tidak untuk menjelaskan variasi pada model.
+
+Nilai koefisien dapat menggambarkan seberapa besar efek suatu variabel bebas dengan variabel tak bebas. 
+Selain itu dapat menunjukkan arah dari hubungan tersebut. 
+Jika koefisien bernilai positif maka variabel tak bebas akan naik jika nilai pada variabel bebas naik. 
+Namun jika koefisien bernilai negatif maka variabel tak bebas akan turun jika nilai pada variabel bebas naik.
+
+Nilai const atau konstan adalah nilai intercept pada model dimana jika nilai koefisien sama dengan nol, 
+maka nilai variabel tak bebas akan sama dengan nilai konstan.
+
+Untuk memastikan bahwa koefisien suatu variabel bebas memiliki pengaruh yang signifikan, 
+kita dapat menggunakan p-value. 
+Jika p-value memiliki nilai kurang dari level signifikansi tertentu, 
+maka dapat dikatakan bahwa koefisien memiliki efek yang signifikan terhadap model. 
+Dalam hasil summary di atas, diperoleh bahwa p-value sebesar 0.006.
+
+Jika kita menggunakan angka signifikansi :
+α = 0.05
+Maka p-value < α = 0.05 sehingga koefisien yang diperoleh signifikan untuk model ini.
