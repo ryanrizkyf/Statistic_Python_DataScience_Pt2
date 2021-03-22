@@ -1,0 +1,18 @@
+Histogram adalah salah satu visualisasi yang digunakan untuk melihat bentuk dari distribusi data. 
+Visualisasi ini sangat penting karena dapat menggambarkan apakah suatu data memiliki distribusi tertentu 
+dan apakah data perlu dirubah dahulu untuk memenuhi suatu asumsi, 
+terutama saat melakukan pemodelan liner yang akan dibahas nanti.
+
+Terdapat beberapa pola dari histogram yang biasanya sering muncul 
+ketika menganalisa data yang dapat dilihat pada gambar berikut :
+
+Lihat gambar pada file Histogram-1.jpg
+Sumber Gambar: https://www.dummies.com
+
+Suatu distribusi disebut memiliki skewness positif jika ekor dari distribusi memanjang ke kiri. 
+Kebalikannya, suatu distribusi disebut memiliki skewness negatif jika ekor dari distribusi memanjang ke kanan. 
+Hal ini terjadi karena nilai mean, median, dan modus tidak terletak di satu titik sebagaimana 
+yang dapat diamati pada gambar berikut :
+
+Lihat gambar pada file Histogram-2.jpg  
+Sumber Gambar: https://www.statisticshowto.com
