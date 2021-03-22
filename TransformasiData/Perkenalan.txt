@@ -1,0 +1,12 @@
+Transformasi data adalah penggunaan fungsi matematika tertentu pada setiap titik data 
+untuk mengubahnya dari suatu nilai ke nilai yang lain. 
+
+Secara matematis dapat ditulis sebagai berikut :
+Lihat gambar pada file TransformasiData.png
+
+Penjelasan:
+- xi adalah nilai ke-i pada data yang ingin diubah.
+- f adalah fungsi yang digunakan untuk mengubah xi menjadi yi.
+
+Transformasi biasanya digunakan untuk memenuhi asumsi-asumsi pada model statistika tertentu, 
+misalnya model regresi linier.
