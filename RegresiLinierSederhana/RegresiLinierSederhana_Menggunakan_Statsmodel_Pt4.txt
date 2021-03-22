@@ -1,0 +1,28 @@
+Uji Asumsi Klasik
+Hal yang harus diperhatikan dalam regresi linier adalah apakah residual dari model berdistribusi normal 
+atau tidak atau apakah terdapat homoskedastisitas atau tidak dan faktor-faktor lainnya.
+
+Residual Harus Berdistribusi Normal
+Agar model regresi valid, maka resiudal dari model harus berdistribusi normal. 
+Hal ini dapat kita baca dari hasil summary dari model, yaitu skew. 
+Semakin nilainya mendekati nol maka distribusi residual mendekati normal. 
+Pada contoh sebelumnya kita memperoleh nilai skew sebesar 0.702 yang berarti distribusi 
+dari residual cukup normal.
+
+Homoskedastisitas
+Selain distribusi dari residual harus mendekati atau berdistribusi normal, 
+homoskedastisitas adalah salah satu syarat yang harus dipenuhi agar model yang dibuat valid. 
+Homoskedastisitas adalah kondisi dimana variansi dari error seragam. 
+Ketika yang terjadi justru variansinya semakin membasar atau mengecil 
+maka yang terjadi adalah heteroskedastisitas. 
+
+Hal ini dapat lebih mudah digambarkan sebagai berikut :
+Lihat gambar pada file Homoskedastisitas.png
+Sumber Gambar: https://stats.stackexchange.com
+
+Kita dapat mengamati ini dari nilai Durbin-Watson. 
+Jika nilai Durbin-Watson di antara nilai 1 dan 2 maka dapat dipastikan bahwa 
+terdapat homoskedastisitas pada model.
+
+Pada contoh sebelumnya kita memperoleh nilai Durbin-Watson sebesar 2.516 
+yang berarti tidak terdapat homoskedastisitas pada model sehingga model tidak valid untuk digunakan.
