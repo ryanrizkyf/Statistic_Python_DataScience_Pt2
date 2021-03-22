@@ -1,0 +1,16 @@
+Regresi linier sederhana atau disebut juga sebagai regresi linier bivariat adalah 
+model statistika yang digunakan untuk melakukan estimasi nilai variabel dependen/variabel tak bebas 
+dengan menggunakan satu variabel independen/variabel bebas. 
+
+Dengan merumuskan bahwa satu variabel memiliki pengaruh terhadap variabel lain, 
+kita dapat mengukur seberapa besar dan signifikan variabel bebas dalam menentukan nilai variabel tak bebas.
+
+Secara matematis, regresi linier sederhana dapat dirumuskan sebagai berikut :
+Lihat gambar pada file RegresiLinierSederhana_Matematis-1.png
+
+Penjelasan :
+Lihat gambar pada file RegresiLinierSederhana_Matematis-2.png
+
+Secara geometris dapat digambarkan sebagai berikut :
+Lihat gambar pada file RegresiLinierSederhana_Geometris-1.png
+Lihat gambar pada file RegresiLinierSederhana_Geometris-2.png
