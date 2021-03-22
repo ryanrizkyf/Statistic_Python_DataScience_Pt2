@@ -1,0 +1,18 @@
+R-Squared (R2)
+
+R-squared adalah salah satu ukuran yang digunakan untuk menilai seberapa baik variabel independen 
+yang digunakan untuk menjelaskan variasi pada variabel dependen. 
+Semakin besar nilainya atau semakin mendekati 1, semakin baik modelnya.
+
+Secara matematis, R-squared dari model dapat dihitung menggunakan rumus berikut :
+Lihat gambar pada file R-Squared.png
+
+Penjelasan :
+Lihat gambar pada file Penjelasan_R-Squared.png
+
+Pada hasil summary di atas diperoleh bahwa nilai
+Lihat gambar pada file Hasil_R-Squared.png
+
+Yang berarti persentase perubahan variabel tak bebas 'Total' yang dijelaskan oleh 
+variabel bebas 'Pendapatan' sebesar 35.1%. 
+Dan sekitar 64,9% sisanya dipengaruhi oleh faktor-faktor lainnya yang tidak termasuk di dalam model.
