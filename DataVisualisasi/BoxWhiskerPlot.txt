@@ -1,0 +1,12 @@
+Box and whisker plot atau yang biasa disebut juga sebagai Box plot adalah salah satu 
+visualisasi data yang dapat digunakan untuk melihat 
+distribusi data, nilai maksimum, dan minimum serta nilai kuantil dari data. 
+
+Box plot dapat digunakan sebagai pengganti dari histogram untuk memahami distribusi dan variasi 
+dari data walaupun bentuk distribusinya tidak terlalu terlihat jelas.
+
+Box plot terdiri box yang lebarnya adalah jarak interkuartil dan whisker yang merupakan rentang 
+antara nilai nilai kuartil bawah/atas dengan nilai minimum dan maksimum.
+
+Lihat gambar pada file BoxWhiskerPlot.png
+Sumber Gambar: https://www.simplypsychology.org
