@@ -1,0 +1,12 @@
+Diagram Pencar atau Scatter Plot
+Diagram pencar adalah salah satu visualisasi data sederhana yang dapat digunakan untuk 
+menggambarkan hubungan antara variabel numerik dengan variabel numerik lainnya. 
+
+Selain itu diagram pencar dapat digunakan untuk melihat pola-pola pengelompokkan pada data, 
+biasanya digunakan pada analisa segmentasi.
+
+Lihat gambar pada file ScatterPlot-1.png
+Sumber Gambar: https://www.learnbyexample.org
+
+Lihat gambar pada file ScatterPlot-2.png
+Sumber Gambar: https://nikkimarinsek.com
