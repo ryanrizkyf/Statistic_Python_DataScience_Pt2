@@ -1,0 +1,13 @@
+Visualisasi data adalah tahapan yang sangat penting dalan melakukan analisa data. 
+Hal ini karena beberapa pola yang terdapat pada data tidak dapat 
+semata-mata digambarkan hanya dengan angka semata. 
+
+Dengan melakukan visualisasi pada data, hal ini dapat membuat data 
+menjadi lebih menyenangkan untuk dilihat dan lebih mudah untuk dipahami.
+
+Lihat gambar pada file VisualisasiData.png
+
+Misalnya pernyataan statistik seperti: 
+Rata-rata usia pasien yang positif diabetes adalah 50 dengan deviasi standar 5. 
+Apa maknanya? Apa perbedaan dengan rata-rata usia 50 namun dengan standar deviasi 10? 
+Hal ini bisa dijawab dengan menggunakan visualisasi data.
